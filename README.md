@@ -1,19 +1,4 @@
-# 🎮 Matrix Backloggd Exporter
 
-<div align="center">
-
-![Matrix Style](https://img.shields.io/badge/Style-Matrix-00ff41?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
-**A Matrix-themed desktop application to extract your Backloggd game library**
-
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
-
-</div>
-
----
 
 ## 🌟 Features
 
@@ -228,5 +213,6 @@ Project Link: [https://github.com/hayatim_yok/matrix-backloggd-exporter](https:/
 **⭐ Star this repository if you find it useful! ⭐**
 
 Made with ❤️ and ☕ by hayatim_yok
+
 
 </div>
