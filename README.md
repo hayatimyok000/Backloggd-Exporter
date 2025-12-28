@@ -9,7 +9,7 @@
 
 **A Matrix-themed desktop application to extract your Backloggd game library**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) •  [Contributing](#-contributing)
 
 </div>
 
