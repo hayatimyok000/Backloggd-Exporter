@@ -1,4 +1,19 @@
+# 🎮 Matrix Backloggd Exporter
 
+<div align="center">
+
+![Matrix Style](https://img.shields.io/badge/Style-Matrix-00ff41?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+**A Matrix-themed desktop application to extract your Backloggd game library**
+
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
+
+</div>
+
+---
 
 ## 🌟 Features
 
@@ -102,19 +117,6 @@ Celeste - 5/5
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-*Matrix-themed UI with digital rain background*
-
-### Live Extraction
-*Real-time monitor showing game extraction progress*
-
-### Console Output
-*Color-coded terminal logs with timestamps*
-
----
-
 ## 🛠️ Technical Details
 
 ### Built With
@@ -202,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**hayatim_yok** - [@hayatim_yok](https://github.com/hayatimyok000)
+**hayatim_yok** - [@hayatim_yok](https://github.com/hayatim_yok)
 
 Project Link: [https://github.com/hayatim_yok/matrix-backloggd-exporter](https://github.com/hayatim_yok/matrix-backloggd-exporter)
 
@@ -214,6 +216,4 @@ Project Link: [https://github.com/hayatim_yok/matrix-backloggd-exporter](https:/
 
 Made with ❤️ and ☕ by hayatim_yok
 
-
 </div>
-
