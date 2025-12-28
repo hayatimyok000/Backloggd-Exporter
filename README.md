@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**hayatim_yok** - [@hayatim_yok](https://github.com/hayatim_yok)
+**hayatim_yok** - [@hayatim_yok](https://github.com/hayatimyok000)
 
 Project Link: [https://github.com/hayatim_yok/matrix-backloggd-exporter](https://github.com/hayatim_yok/matrix-backloggd-exporter)
 
@@ -216,3 +216,4 @@ Made with ❤️ and ☕ by hayatim_yok
 
 
 </div>
+
